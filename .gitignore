@@ -1,6 +1,8 @@
-__pycache__
-.history
+__pycache__/
+*.pyc
+.history/
 .pytest_cache
-.venv
+.venv/
+.env
 
 tests/__pycache__
